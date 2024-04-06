@@ -790,6 +790,7 @@ tools:
 - name: hapog
   owner: iuc
   revisions:
+  - 5287036a797a
   - 7d56a813fd24
   - c61bc8bb5f1e
   - ee0d6e789958
@@ -1167,6 +1168,7 @@ tools:
   - 6f4c8ad6ea01
   - 8f631679571f
   - ced385aa976d
+  - ed2425b9fd27
   tool_panel_section_label: Assembly
 - name: trycycler_consensus
   owner: iuc
@@ -1177,6 +1179,7 @@ tools:
   - 9ded6109434a
   - d40ed4eb0c0e
   - e59bee4565b3
+  - f31d376ce725
   tool_panel_section_label: Assembly
 - name: trycycler_partition
   owner: iuc
@@ -1184,6 +1187,7 @@ tools:
   - 4688ae3b49b5
   - 6dd935e4984b
   - 80a17897564d
+  - af40e971a8cc
   - b23249f81bc4
   - ebd801e712bc
   tool_panel_section_label: Assembly
@@ -1194,6 +1198,7 @@ tools:
   - 937ea677d437
   - b5e35a2ca4f3
   - b64696992ee9
+  - bb11fefb23a3
   - cb1e3db43020
   tool_panel_section_label: Assembly
 - name: trycycler_subsample
@@ -1203,6 +1208,7 @@ tools:
   - 2628f6790eda
   - 383bb5ad32e2
   - 6015aa0303f2
+  - 6bfab4a4a988
   - cb4768eeca3b
   tool_panel_section_label: Assembly
 - name: unicycler
@@ -2506,6 +2512,7 @@ tools:
   - 83c7d564b128
   - aad3885b3216
   - b723c120161a
+  - ba931a59dd59
   - c441583adae5
   - de0f7e0a3896
   - e08a7ad4378b
@@ -3584,6 +3591,7 @@ tools:
   - 2445d53549ba
   - 3f4d6399997b
   - 53c0b7a1a0c3
+  - 5cc34c3f440d
   - 6b1e195506a3
   - 6f50f36e4481
   - 77b2770508f6
@@ -8027,6 +8035,7 @@ tools:
   - 2872c633f07e
   - 4ca0e679f21e
   - 62adf13b86ea
+  - 9a7c5b6d8f1e
   - 9fd8b69e6e68
   - b47c006d90c5
   - df929f257179
@@ -10336,6 +10345,7 @@ tools:
   owner: iuc
   revisions:
   - 30079fa4e2fd
+  - 584c09b1967a
   - b1ca9fce4749
   - e3862632706d
   - fb00426402b0
@@ -10945,6 +10955,7 @@ tools:
   owner: iuc
   revisions:
   - 462e62be07e1
+  - 80e18c0836e5
   tool_panel_section_label: Virology
 - name: data_manager_build_kraken2_database
   owner: iuc
