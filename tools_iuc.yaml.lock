@@ -468,6 +468,7 @@ tools:
   - 23494763e39e
   - 24adf43898ec
   - 2eb7932e91a3
+  - 8ec7636fa875
   - 95c71179a054
   tool_panel_section_label: Annotation
 - name: krocus
@@ -8933,6 +8934,7 @@ tools:
   owner: iuc
   revisions:
   - 32ea013ae290
+  - 5854d0da92b4
   - 5cd5d0947354
   - 69f93450c57d
   - 91d89a597aac
@@ -11014,6 +11016,7 @@ tools:
 - name: varvamp
   owner: iuc
   revisions:
+  - 33fac436dd54
   - 462e62be07e1
   - 80e18c0836e5
   - eb5dcbebd242
