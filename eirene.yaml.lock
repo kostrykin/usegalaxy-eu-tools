@@ -93,6 +93,7 @@ tools:
   owner: recetox
   revisions:
   - 0b86600b715e
+  - 6cd2a9e6ac49
   - 90dc951da294
   - e5fcba090b10
   tool_panel_section_label: Metabolomics
