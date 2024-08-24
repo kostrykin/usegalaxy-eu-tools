@@ -19,6 +19,7 @@ tools:
   owner: bgruening
   revisions:
   - 04bfb8ee7e23
+  - 3ae9331790a6
   - 4e9a3745dce4
   - 5376a7767fb3
   - 57e2503e6039
@@ -37,6 +38,7 @@ tools:
   - 31dfed0f0eed
   - 391a19477a12
   - 39881709807e
+  - 3e81299dfce3
   - 4dada93ef525
   - 7e2ee5f43778
   - 8dbc700cb940
@@ -47,6 +49,7 @@ tools:
   revisions:
   - 2a5a0b61a84e
   - bb871fbe177f
+  - cfe1d6e23237
   - fd0e8bda0154
   tool_panel_section_label: Convert Formats
 - name: hictk
@@ -218,6 +221,7 @@ tools:
   owner: bgruening
   revisions:
   - 030bfe6065d9
+  - 9186100e75b5
   - eda6dfae9617
   tool_panel_section_label: Imaging
 - name: woundhealing_scratch_assay
@@ -985,6 +989,7 @@ tools:
   owner: rnateam
   revisions:
   - 6f28e90db932
+  - 8e649f27aa0d
   - a65296ffb4a0
   - bcfce5aac49c
   - bf28a8cff401
