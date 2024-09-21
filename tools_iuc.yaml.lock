@@ -752,6 +752,7 @@ tools:
   - 841084c5fc46
   - 8f1b150a2487
   - a929ce596a34
+  - d6d5ccc2c581
   - f4fb67b97a63
   - fa5259cc561b
   tool_panel_section_label: Assembly
@@ -5101,6 +5102,7 @@ tools:
   - 2131d7dca455
   - 289b3807e80c
   - 6dee4abadccb
+  - 740fd2d16a28
   - a16313517e55
   - a92a632c4d9b
   - b6897977d13e
@@ -9500,6 +9502,7 @@ tools:
   - 178242b82297
   - 20cfb9f3dded
   - 35bc2eb568ed
+  - 38db3fef7aad
   - 3e4e1cf73d98
   - 4d8f983cd751
   - 64ff3ef24fae
@@ -9528,6 +9531,7 @@ tools:
   - 713a0c65b1fe
   - 72a6bebab2a5
   - 8b9610ab366a
+  - 8cb783c81905
   - a03ff8633507
   - a72e9faea895
   - a97abb8cd15b
@@ -9556,6 +9560,7 @@ tools:
   - c5d3684f7c4c
   - ca086f24422f
   - cc0deb593fc8
+  - d1cd8c147809
   - e4c99c83dfbf
   - f54f0f0598ad
   tool_panel_section_label: Single-cell
@@ -9566,6 +9571,7 @@ tools:
   - 51d945eab1e1
   - 5342ce58cd1e
   - 55f2212bb675
+  - 56c0d4acef02
   - 5dada6f76047
   - 7b9fafe32c86
   - 8e0f141c8c66
@@ -9584,6 +9590,7 @@ tools:
 - name: scanpy_plot
   owner: iuc
   revisions:
+  - 0185bd174ea0
   - 1072ce66b426
   - 2dfb2227a16c
   - 397d2c97af05
@@ -9615,6 +9622,7 @@ tools:
   - 80d4e2cac903
   - 94c8f42efc47
   - 9ca360dde8e3
+  - 9fb627495ec2
   - a39040ae0a38
   - a89ee42625ad
   - b70219da4a96
