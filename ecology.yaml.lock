@@ -1505,6 +1505,7 @@ tools:
   owner: ecology
   revisions:
   - 3b0fa963ae3e
+  - 5faa25ba905e
   - 67b2cd9c2954
   - d4f168043757
   - debfa8a223c0
@@ -1513,6 +1514,7 @@ tools:
   owner: ecology
   revisions:
   - 32707c9f5261
+  - 672e25c2c8c8
   - 6de4b4f70b7b
   - 8631291a1527
   - c223db6625c1
@@ -1521,6 +1523,7 @@ tools:
   owner: ecology
   revisions:
   - 06e29cdc08bf
+  - 36150f04b524
   - 9eaf84bf856f
   - b34c5a70b706
   tool_panel_section_label: Data and Metadata Management
@@ -1528,6 +1531,7 @@ tools:
   owner: ecology
   revisions:
   - 330f15f2ad3f
+  - 40eb35199537
   - 559744b4c50c
   - c65dd54f9807
   tool_panel_section_label: Data and Metadata Management
@@ -1535,6 +1539,7 @@ tools:
   owner: ecology
   revisions:
   - 1b11e38718af
+  - 299db57196ac
   - 5bfceb4ef59b
   - 8de58d879d6e
   tool_panel_section_label: Data and Metadata Management
@@ -1545,6 +1550,7 @@ tools:
   - 4f5816b57c13
   - a5f887cfcf94
   - d53b708cb348
+  - ea302cc18332
   tool_panel_section_label: Data and Metadata Management
 - name: taxo_cov_template
   owner: ecology
@@ -1552,6 +1558,7 @@ tools:
   - 0cfc9b6da2ac
   - 20224597fa2c
   - 2af7401f13e0
+  - 4f2d8a7c97fa
   - 9507334a3303
   - a45fa46f8010
   tool_panel_section_label: Data and Metadata Management
@@ -1559,6 +1566,7 @@ tools:
   owner: ecology
   revisions:
   - 34dcb86a9351
+  - 49f38336f28f
   - 4cf24a95c4ff
   - 59349973537f
   - 642e31c435c9
@@ -1576,6 +1584,7 @@ tools:
   - 5c0290c4225a
   - 6fc2341a92cb
   - bd8b3e7541d5
+  - c1d2c0922362
   tool_panel_section_label: Data and Metadata Management
 - name: ecoregion_brt_analysis
   owner: ecology
