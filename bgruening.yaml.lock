@@ -1063,6 +1063,7 @@ tools:
 - name: tabpfn
   owner: bgruening
   revisions:
+  - 1d77df05cbfc
   - 33d53eb476fd
   - 49b4ee0d0965
   - c081e5e1d7ce
