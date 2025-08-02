@@ -167,6 +167,7 @@ tools:
 - name: evidencemodeler
   owner: iuc
   revisions:
+  - 82aeab1ae0a1
   - eb9dc0a70506
   tool_panel_section_label: Annotation
 - name: dgidb_annotator
@@ -3254,6 +3255,7 @@ tools:
 - name: ncbi_datasets
   owner: iuc
   revisions:
+  - 03a801ded645
   - 0622d99c2619
   - 0f3b3813b6ae
   - 18eed8fa7f23
@@ -4221,6 +4223,7 @@ tools:
   owner: iuc
   revisions:
   - 2e773e00ceb0
+  - 658ae96f53c4
   - 799a9fe1265c
   - fad89d56674a
   tool_panel_section_label: HiCExplorer
@@ -4228,6 +4231,7 @@ tools:
   owner: iuc
   revisions:
   - 36e26166034d
+  - 3728380d1dff
   - a532cbac217a
   - baa3ae7ac42c
   tool_panel_section_label: HiCExplorer
@@ -4237,6 +4241,7 @@ tools:
   - 0bc84d7d94d4
   - 5426f006d7ed
   - 54b6cef88a7f
+  - 97569c103d58
   tool_panel_section_label: HiCExplorer
 - name: schicexplorer_schicclusterminhash
   owner: iuc
@@ -4244,11 +4249,13 @@ tools:
   - 1c2e79e9311a
   - 3048283ee054
   - 68648299ffc4
+  - 74e28c7ca918
   tool_panel_section_label: HiCExplorer
 - name: schicexplorer_schicclustersvl
   owner: iuc
   revisions:
   - 7cbd84a1f985
+  - e327fe59be69
   - e6ec3914a076
   - eeb26f378f34
   tool_panel_section_label: HiCExplorer
@@ -4257,6 +4264,7 @@ tools:
   revisions:
   - 18bdb745b787
   - 33b1c99cc709
+  - 38ece0c4e316
   - 49e3fe550e7e
   tool_panel_section_label: HiCExplorer
 - name: schicexplorer_schiccorrectmatrices
@@ -4265,10 +4273,12 @@ tools:
   - 104bedd292cd
   - 16dda99bd733
   - 295558e266d0
+  - f2d2d650f7b5
   tool_panel_section_label: HiCExplorer
 - name: schicexplorer_schiccreatebulkmatrix
   owner: iuc
   revisions:
+  - 14e19124511c
   - acb3ed49109e
   - ec29352b062f
   tool_panel_section_label: HiCExplorer
@@ -4276,6 +4286,7 @@ tools:
   owner: iuc
   revisions:
   - 649c86cedcb4
+  - a49faacc7c1f
   - e59d83af97a1
   - f224fc9af1d3
   tool_panel_section_label: HiCExplorer
@@ -4285,12 +4296,14 @@ tools:
   - 09f8be8a6e76
   - 35c211c5146d
   - 41b415c410e3
+  - b3b17288df08
   tool_panel_section_label: HiCExplorer
 - name: schicexplorer_schicmergematrixbins
   owner: iuc
   revisions:
   - 18ac7f83ae0e
   - 47ef02546fe9
+  - 48ed2580b39e
   - ecae4e42d40a
   tool_panel_section_label: HiCExplorer
 - name: schicexplorer_schicmergetoscool
@@ -4298,10 +4311,12 @@ tools:
   revisions:
   - 6ffcffed0225
   - 70a13d0a950f
+  - d92e3bca3da0
   tool_panel_section_label: HiCExplorer
 - name: schicexplorer_schicnormalize
   owner: iuc
   revisions:
+  - 12825fd4c91c
   - 66e96c3d3c5d
   - 6eda3d3b562d
   - 7c2387e72aac
@@ -4309,6 +4324,7 @@ tools:
 - name: schicexplorer_schicplotclusterprofiles
   owner: iuc
   revisions:
+  - 0aca9bf1e402
   - 2427c6d8cdd0
   - 65f2f5d29947
   - 9da580a74230
@@ -4319,6 +4335,7 @@ tools:
   - 1a1e085c352e
   - 259899fbb6ae
   - 95b1216e1e70
+  - b1f0a9b02efd
   tool_panel_section_label: HiCExplorer
 - name: schicexplorer_schicqualitycontrol
   owner: iuc
@@ -4326,6 +4343,7 @@ tools:
   - 061a8c076eb1
   - 4a841ab67e3b
   - 5f2eacae0bb8
+  - e426ba8aeb93
   tool_panel_section_label: HiCExplorer
 - name: idr_download_by_ids
   owner: iuc
@@ -6005,6 +6023,7 @@ tools:
   - 86206f93fb13
   - 9a7e91fc6562
   - bf30030e5265
+  - cb132bfc5ab1
   - eca7ac1eb423
   - f5a5a2b39ff2
   tool_panel_section_label: Metagenomic Analysis
@@ -6312,6 +6331,7 @@ tools:
   - 7b382efabb98
   - 99ff9221182c
   - b5a7583b8db0
+  - bcb50c148f4b
   tool_panel_section_label: Metagenomic Analysis
 - name: semibin_bin
   owner: iuc
@@ -6319,12 +6339,14 @@ tools:
   - 2d1940ae33c2
   - 474701f91bcd
   - 4d561bdc2c31
+  - 552cfc6ed475
   - dbf5571a8140
   tool_panel_section_label: Metagenomic Analysis
 - name: semibin_concatenate_fasta
   owner: iuc
   revisions:
   - 298542e0e136
+  - c72b50829c03
   - dcc81bfe5f6a
   - e0aae2cd891e
   - e6bc3455940e
@@ -6333,6 +6355,7 @@ tools:
   owner: iuc
   revisions:
   - 078414a1226b
+  - 416bfa61b640
   - 5ae13a156271
   - 68d2cd0be567
   - a6f004bc73bf
@@ -6343,12 +6366,14 @@ tools:
   - 0608cf7dc528
   - 07bf5268724f
   - 0ae1a2636de5
+  - 40ffba87bbcf
   - ff4e487f4f7e
   tool_panel_section_label: Metagenomic Analysis
 - name: semibin_train
   owner: iuc
   revisions:
   - 08cc1cd58f38
+  - 191a3a14a7f1
   - 2344bc30a326
   - 43df7a4c33a2
   - 8b77643cf479
@@ -9768,6 +9793,7 @@ tools:
   owner: lparsons
   revisions:
   - 4418229c501e
+  - 8f6836089479
   - 916cb26bd9d3
   tool_panel_section_label: RNA Analysis
 - name: idr
@@ -13368,6 +13394,7 @@ tools:
   owner: iuc
   revisions:
   - 676915c44e1e
+  - d584aacd7d13
 - name: data_manager_vep_cache_downloader
   owner: iuc
   revisions:
