@@ -1106,6 +1106,7 @@ tools:
   revisions:
   - 08c658e9aa9e
   - 7770a4bd42e2
+  - afa2cbe1a96a
   - dab494dce303
   tool_panel_section_label: Machine Learning
 - name: black_forest_labs_flux
