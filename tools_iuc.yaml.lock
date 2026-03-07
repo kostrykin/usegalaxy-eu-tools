@@ -2821,6 +2821,7 @@ tools:
   - 35136ed940a1
   - 4cf00d20acab
   - 654a2f089252
+  - 787885938baa
   - 7dd90df319f6
   - b1b12eaebfa9
   - bf232552f5fe
@@ -2836,6 +2837,7 @@ tools:
   - 6fb76225bdb1
   - 934165d1f733
   - dcd66e8008d7
+  - f56a47e4cc93
   - fb7b676906e7
   tool_panel_section_label: FASTA/FASTQ
 - name: seqkit_locate
@@ -2850,6 +2852,7 @@ tools:
   - 7cb74b5d4185
   - 7e30613be1c6
   - 95ef41cc06f7
+  - be1ccfa4abaf
   - e565ba1ddce4
   - f97c9e63e561
   - fe7a1e57a6cf
@@ -2858,6 +2861,7 @@ tools:
   owner: iuc
   revisions:
   - 0c011189b47e
+  - 0d9d8de82304
   - 0e0b003c711f
   - 1936d097808a
   - 23fa143a2e94
@@ -2880,6 +2884,7 @@ tools:
   - a89d0059d1d7
   - b76522db7507
   - b9297580f1e0
+  - cfa0fe8978a3
   - d85bac8b166a
   - dffafc82f0ae
   - fe1ae2ebf63d
@@ -2888,6 +2893,7 @@ tools:
   owner: iuc
   revisions:
   - 01b1d8c7c031
+  - 14f7ceef5579
   - 29ef2c5ec205
   - 3dc878f71e4d
   - 53b2027027c7
@@ -4592,6 +4598,7 @@ tools:
   - 0d4acadabb04
   - 17062a0decb7
   - 749c918495f7
+  - a470b376503d
   - a54de7e658f7
   - a6d65b0c67af
   - a9d4f71dbfb0
@@ -6426,6 +6433,7 @@ tools:
   owner: iuc
   revisions:
   - 2238658d7663
+  - 2bf4cd8ce41e
   - 30c3ad698f2d
   - 61af11a54bc8
   - d34e74e40d60
@@ -6442,6 +6450,7 @@ tools:
   - b6a38f6222af
   - b8a4de1a4e19
   - c0101c72b8af
+  - eed716573aba
   tool_panel_section_label: Metagenomic Analysis
 - name: phyloseq_from_dada2
   owner: iuc
@@ -6451,6 +6460,7 @@ tools:
   - 40ebae5bbe51
   - 46a99bd1f10e
   - 6000b8a8dd9d
+  - 6a067bbd4e16
   - 87064cb77a52
   - ae4d404a8227
   - b85ba18a8f36
@@ -6466,12 +6476,14 @@ tools:
   - 94563110275d
   - ad81e112f4d9
   - d0fa6a43c838
+  - e2e61cbfc4c6
   - e9442bd54200
   tool_panel_section_label: Metagenomic Analysis
 - name: phyloseq_plot_ordination
   owner: iuc
   revisions:
   - 11d43fa12aab
+  - 2715e89adff4
   - 32f892954ef6
   - 5007bc8a3d90
   - 92e77800ef2c
@@ -6495,6 +6507,7 @@ tools:
   - a20bc31f2821
   - d6cbeb48294d
   - fb7c4bbe8994
+  - fd170b83f148
   tool_panel_section_label: Metagenomic Analysis
 - name: plasflow
   owner: iuc
@@ -9195,6 +9208,7 @@ tools:
   - 9158a34fc9c5
   - 91e47cb67709
   - a4c5dc437558
+  - abe7c7c34142
   - b5d981229301
   - b8bdfac5a326
   - ba548f24669a
@@ -10987,6 +11001,7 @@ tools:
   - 5a08c09b9311
   - 793ad847121d
   - 8cfc17e27132
+  - 8fca6e1eac98
   - 95a7ddf617e7
   - e221fe58c2f5
   - e28839a4b932
