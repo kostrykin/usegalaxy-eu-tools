@@ -1076,6 +1076,7 @@ tools:
 - name: obi_annotate
   owner: iuc
   revisions:
+  - 1b8f9a62811b
   - 3021b9f5809f
   - d50dc96e3ce9
   - f82cefbbcea5
@@ -1084,6 +1085,7 @@ tools:
   owner: iuc
   revisions:
   - 02bab5ff7c37
+  - d16990a72638
   - e9e49cf06b42
   - fe7ec8a3d35e
   tool_panel_section_label: DNA Metabarcoding
@@ -1100,6 +1102,7 @@ tools:
   revisions:
   - 08d873cdd5f6
   - 12baadec7809
+  - 6fa6df09d606
   - 7d16de45c021
   - 816cbd8f4e6e
   tool_panel_section_label: DNA Metabarcoding
