@@ -201,6 +201,7 @@ tools:
 - name: mitohifi
   owner: bgruening
   revisions:
+  - 3fc33af5d9e2
   - 99ddbf037d98
   - bfab6f5b449d
   - f6065bc6e428
@@ -418,6 +419,7 @@ tools:
   - e4af79bffd57
   - ed7c222e47e3
   - f7ecdde4b201
+  - fe0e82a7d0ee
   tool_panel_section_label: Machine Learning
 - name: keras_model_config
   owner: bgruening
@@ -601,6 +603,7 @@ tools:
   - b75cae00f980
   - c72131b8fc7a
   - d6b8103c909c
+  - dde13d557dc4
   - eb79bde99328
   - eb9da067ab26
   - f2234165a453
@@ -1192,6 +1195,7 @@ tools:
   - 9450286c42ab
   - 9c91d13827ef
   - bd808d1c4e0c
+  - d1dc88960179
   - d89227ba1de6
   - e0a67265f3ed
   tool_panel_section_label: Machine Learning
