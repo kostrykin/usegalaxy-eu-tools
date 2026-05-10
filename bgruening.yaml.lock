@@ -337,6 +337,7 @@ tools:
 - name: wordcloud
   owner: bgruening
   revisions:
+  - 45c4cc885ddb
   - 54c2d8ebf0cf
   - 57e3de4b3b0d
   - 6055ffae8903
@@ -1170,6 +1171,7 @@ tools:
   - ce2fd1edbc6e
   - e10ffa9e0b90
   - e8639f65c883
+  - e8e5736b632d
   - fc0f9ba14aaa
   tool_panel_section_label: Machine Learning
 - name: tabpfn
