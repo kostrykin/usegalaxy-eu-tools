@@ -533,6 +533,7 @@ tools:
   - 34d6b282ab6a
   - b3d41b1fcb18
   - c68193aed29e
+  - ddd192ac60fe
   - e0cac9994a72
   tool_panel_section_label: Metabolomics
 - name: rename_annotated_feature

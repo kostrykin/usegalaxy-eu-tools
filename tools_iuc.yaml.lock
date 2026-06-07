@@ -22,6 +22,7 @@ tools:
   - 468fd92deaaa
   - 5aaffb8d8161
   - ca5d51152817
+  - ce54031c2235
   - e17bbe564242
   - e909d3bc4687
   tool_panel_section_label: Annotation
@@ -3125,6 +3126,7 @@ tools:
   revisions:
   - 00b3da7776a0
   - 2488bcddaf14
+  - 57467b5debe6
   - 61946b8bd43b
   - 96a3c972424f
   - bae6cba73e32
@@ -3442,6 +3444,7 @@ tools:
   revisions:
   - 03a801ded645
   - 0622d99c2619
+  - 07f675a7ac2e
   - 0f3b3813b6ae
   - 18eed8fa7f23
   - 198c75abbf55
@@ -8767,6 +8770,7 @@ tools:
   - 0f1c34698076
   - 2a9afed42353
   - 4c172a4a4c9e
+  - 640e4eeab4e2
   - 645159bcee2d
   - 7b379e98b9a9
   - 9eab750c367d
@@ -9648,6 +9652,7 @@ tools:
   - 29ff6a849eac
   - 73a469f7dc96
   - b1e68bbe4cef
+  - dc97e1b45938
   - ea30d3089354
   tool_panel_section_label: Phylogenetics
 - name: sarscov2formatter
