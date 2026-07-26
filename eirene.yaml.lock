@@ -583,6 +583,7 @@ tools:
 - name: xcms_plot_raw
   owner: workflow4metabolomics
   revisions:
+  - 4e0975c50db5
   - 520448a32548
   - 8b8d360316c3
   tool_panel_section_label: Metabolomics
@@ -727,6 +728,7 @@ tools:
 - name: bioconductor_msnbase_smooth_chromatogram
   owner: recetox
   revisions:
+  - 09162867c419
   - 492350f45be9
   tool_panel_section_label: Metabolomics
 - name: bioconductor_msnbase_centroid
