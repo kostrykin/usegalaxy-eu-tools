@@ -93,6 +93,7 @@ tools:
   - 94170eee0ad8
   - bb935709506a
   - c5a90fa4b8dd
+  - cc217867028e
   - cf13a1e03e5b
   - e4bd1e99bacf
   - e5c372c91e46
@@ -1152,6 +1153,7 @@ tools:
   owner: bgruening
   revisions:
   - 045c7c3d8e59
+  - 09cf7b520734
   - 0ee0c3089254
   - 170061c052ad
   - 284a1cb82b61
@@ -1184,6 +1186,7 @@ tools:
 - name: hypo
   owner: iuc
   revisions:
+  - 22fe35346d69
   - d7c48cf1bf50
   tool_panel_section_label: Assembly
 - name: idba_hybrid
@@ -1445,6 +1448,7 @@ tools:
   - 75b4a2298714
   - 8e422c873d02
   - 936a1edffce8
+  - 9491362ac1cd
   - eca7d3a0c5f2
   tool_panel_section_label: Assembly
 - name: pretext_map
@@ -1453,6 +1457,7 @@ tools:
   - 02831bf9e95f
   - 0346286a3b0a
   - 056f86469460
+  - 0d0e8d0691c8
   - 2b16ba799da9
   - 511e5e3cd55e
   - 7087d9a23185
@@ -3823,6 +3828,7 @@ tools:
   - 7c9417381ad5
   - 9ec9c22767c8
   - c4fb391275a0
+  - cfc412b91a57
   - ff02cf8f66f0
   tool_panel_section_label: Graph/Display Data
 - name: pygenometracks
@@ -5693,6 +5699,7 @@ tools:
   - 8c957deb8a68
   - a671907f96fe
   - bb3f59096c8e
+  - c91014de79d2
   tool_panel_section_label: Metagenomic Analysis
 - name: customize_metaphlan_database
   owner: iuc
@@ -6073,6 +6080,7 @@ tools:
   - 97b1540b4830
   - a68b985913ab
   - b907a3c0434f
+  - bef32ef81f43
   - c30adf839acd
   - e91d979deb87
   - ed407eeb69ee
@@ -7036,6 +7044,7 @@ tools:
   revisions:
   - 4e40c6d7bc4a
   - 8a9a425f5c60
+  - be0eabffba99
   - d94e49509dac
   - f2fd2d1b96e3
   tool_panel_section_label: Metagenomic Analysis
@@ -7044,6 +7053,7 @@ tools:
   revisions:
   - 008b08870cc0
   - 17d174efa4be
+  - 7c909013f187
   - a8806f3d45bb
   - ea5e58243c34
   tool_panel_section_label: Metagenomic Analysis
@@ -8738,6 +8748,7 @@ tools:
   - 20d92dc4c6cb
   - 60f307965815
   - 7483f7d26984
+  - 8a203e727140
   - 8b8a3f793f0f
   - 9553180705b7
   - a02aa0dfb850
@@ -9743,6 +9754,7 @@ tools:
   revisions:
   - 3b133b8d578a
   - 6eafc1e01a8c
+  - 84d4390cbd3a
   tool_panel_section_label: Phylogenetics
 - name: picrust2_metagenome_pipeline
   owner: iuc
@@ -9755,6 +9767,7 @@ tools:
   revisions:
   - 6077821e8ae7
   - f53beb324696
+  - fc95788aff90
   tool_panel_section_label: Phylogenetics
 - name: picrust2_pipeline
   owner: iuc
@@ -10725,6 +10738,7 @@ tools:
   - 2622dd85416f
   - 4d0f79f7d90d
   - 6154937135c7
+  - 83f3879b10e8
   - c520f64ffd57
   - fee4b4eb0ef5
   tool_panel_section_label: RNA Analysis
@@ -11426,6 +11440,7 @@ tools:
 - name: tasmanian_mismatch
   owner: iuc
   revisions:
+  - 0a9610941788
   - 98f2b5dfdaa9
   - b15fbf90db53
   tool_panel_section_label: SAM/BAM
@@ -13354,6 +13369,7 @@ tools:
   - c47ecf0e932d
   - c8ecdd5bdb32
   - c91e09b60325
+  - cf3f306bce1b
   - e43f513583ee
   - fdbd97ff825e
   - ff0a8cda0c0b
@@ -13371,6 +13387,7 @@ tools:
   - 85dc96ebc770
   - a5937157062f
   - a7c9782130e8
+  - c752293b798c
   - da6e10dee68b
   - e698621cca1f
   - ef2c525bd8cd
@@ -13554,6 +13571,7 @@ tools:
   - 43fffeed243f
   - 93c4b04a0769
   - ceff2f6a5368
+  - dcd4681273f7
   tool_panel_section_label: Variant Calling
 - name: snippy
   owner: iuc
@@ -13982,6 +14000,7 @@ tools:
   owner: iuc
   revisions:
   - 373c1735d31f
+  - 44c396b0f5e1
   - 9f1660129403
   - cd0484c5f9f1
   - d58a57db7a96
@@ -13991,6 +14010,7 @@ tools:
   owner: iuc
   revisions:
   - 0349d8981030
+  - a7b296efe181
   - ce8b15a55bbe
   - d04ea6b052c5
   - f193fef5b19d
@@ -14002,6 +14022,7 @@ tools:
   - 52bd683c6d3f
   - 579538ff939d
   - cb0d9eb033ef
+  - ec5826d33185
   - eeb5c054ecf8
   tool_panel_section_label: Virology
 - name: freyja_aggregate_plot
@@ -14329,6 +14350,7 @@ tools:
   - 2814c058a087
   - 3a3cb74b3f6e
   - 750d902de22c
+  - b2a92f75fda8
   - e7b39a7e0024
 - name: data_manager_build_staramr
   owner: iuc
@@ -14529,6 +14551,7 @@ tools:
   owner: iuc
   revisions:
   - 07164270ec13
+  - 13846689db6b
   - 1df18470e3d0
   - 279ce0d93d53
   - '422207876644'
@@ -14554,6 +14577,7 @@ tools:
   owner: iuc
   revisions:
   - 0bba1203264f
+  - 603a8e254ee3
   - 6f36c9072433
   - 7897a5cadcf5
   - b581ea4908ae
@@ -14595,6 +14619,7 @@ tools:
   - 7ff4f61789de
   - 82fb756e71cf
   - 82fbf955bb0f
+  - 8539c0a123a0
   - 8d8ae3697a65
   - a7d3e880e74c
   - b6e621c83f94

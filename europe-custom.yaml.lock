@@ -2430,6 +2430,7 @@ tools:
   revisions:
   - 496124e09f82
   - 7d75673f4d6f
+  - b1e50c7b840e
   - b597e1cd14b1
   - bc8b01d1b496
   - c2a413e47fe9
@@ -2450,6 +2451,7 @@ tools:
   owner: iuc
   revisions:
   - 12112e6e5ea4
+  - 2adedc87b4b8
   - 699ce2631e79
   - 95a149a9a75d
   - c70d79e0eed7
@@ -2463,6 +2465,7 @@ tools:
   - 452104bdc655
   - 4b26f6c99227
   - 4f55668547fc
+  - 77284ac1dcee
   - 99d6e7b1b7f1
   - a26f0a30df65
   - e57a1b0ac6be
@@ -2470,6 +2473,7 @@ tools:
 - name: gemini_stats
   owner: iuc
   revisions:
+  - 56d27b51656b
   - 5c9efee9cb1e
   - 73b103195e2a
   - 86d4303cc3ca
@@ -2494,6 +2498,7 @@ tools:
   - b8b120a4cef7
   - be828b79bd4d
   - bff8fad3fb69
+  - fb2890358aa3
   tool_panel_section_label: Gemini
 - name: gemini_pathways
   owner: iuc
@@ -2505,6 +2510,7 @@ tools:
   - 9551b3da9f5d
   - c63b7eefb07a
   - d5ec6384a3be
+  - f81c35b76194
   tool_panel_section_label: Gemini
 - name: gemini_dump
   owner: iuc
@@ -2537,6 +2543,7 @@ tools:
   - 295814260d95
   - 2969a1f43b7d
   - 4b5123d51e8c
+  - 84ede9f5fddb
   - 93a391b4602c
   - be7ac09bc2fa
   - dda378a72430
@@ -2545,6 +2552,7 @@ tools:
 - name: gemini_query
   owner: iuc
   revisions:
+  - 11fdbee540e5
   - 5596c2dc4218
   - 77a1e60fd1de
   - 7ca6716748c2
@@ -2563,6 +2571,7 @@ tools:
   - 8a68d9a33023
   - b35fd707c586
   - c00dcd1455a0
+  - dc09f8b919a4
   tool_panel_section_label: Gemini
 - name: gemini_load
   owner: iuc
@@ -2575,6 +2584,7 @@ tools:
   - 9f74d7b0704a
   - b2c25142267e
   - b5b53c27baca
+  - cca3391dc8b4
   tool_panel_section_label: Gemini
 - name: gemini_de_novo
   owner: iuc
@@ -2620,6 +2630,7 @@ tools:
   - 5fd4a5f9ee31
   - 7814e39409d1
   - 7b031989ea12
+  - 96222aa3e86e
   - '991049484627'
   - e4e2128460e3
   tool_panel_section_label: Gemini
@@ -2645,6 +2656,7 @@ tools:
   revisions:
   - 2550239feed5
   - 2ddee6cd4a5a
+  - 48021eee7e33
   - 527c8e4a356f
   - 7028ca3cac1c
   - a6d326ffbb72
