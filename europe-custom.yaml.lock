@@ -2644,6 +2644,7 @@ tools:
   - 8414eecc3828
   - 86e46972e183
   - a875f940d8fd
+  - ae60026eac0c
   tool_panel_section_label: Gemini
 - name: gemini_comp_hets
   owner: iuc
