@@ -847,6 +847,7 @@ tools:
 - name: repeat_masker
   owner: bgruening
   revisions:
+  - 31763a56f1d7
   - 39b40a9a6296
   - 3f987772e283
   - 438f65cb1d14
@@ -1370,6 +1371,7 @@ tools:
   - 7a2b37ae4a50
   - 914533f3507e
   - ae537f4d4b93
+  - b507ad3fe6ce
   - c162f3c43442
   tool_panel_section_label: Assembly
 - name: pairtools_parse
@@ -1430,6 +1432,7 @@ tools:
   - 6cbca5661205
   - 7f71687c8146
   - 81fc1418fbfb
+  - 88926bef8e75
   - ade829d2ae3a
   - c20a07c9237b
   - cfeb5205eacc
@@ -2287,6 +2290,7 @@ tools:
   revisions:
   - 00a8c36fc98c
   - 2fd21f5b16bc
+  - 4ac97ae01aba
   - 9d793e88e15f
   - a9d66dc6a767
   - b38f620a3628
@@ -2296,6 +2300,7 @@ tools:
   revisions:
   - 112d80c9ccca
   - 476189b83931
+  - 9b04e4d36b82
   - af03f3398f03
   - e0448bc48085
   - eb6f0ec5b95e
@@ -2308,12 +2313,14 @@ tools:
   - 1aa73004ba9b
   - ba95715078c9
   - cf50aeb956f2
+  - e623a56a6470
   tool_panel_section_label: Evolution
 - name: tn93_readreduce
   owner: iuc
   revisions:
   - 1d2ec0b0a0a7
   - 4e68161336da
+  - 767905ef0314
   - 84849140a3bc
   - c176164dc8a5
   - d9a642ad8ece
@@ -4865,6 +4872,7 @@ tools:
   - 8fbd98f37c10
   - 95ab864b281a
   - 98099e4da1fd
+  - c888cae9725e
   tool_panel_section_label: Mapping
 - name: lastz
   owner: devteam
@@ -8950,6 +8958,7 @@ tools:
   - 640e4eeab4e2
   - 645159bcee2d
   - 7b379e98b9a9
+  - 8de9d54f7a96
   - 90818f7835f3
   - 9eab750c367d
   - a02b8b3f5a0c
@@ -11489,6 +11498,7 @@ tools:
   - 0a9610941788
   - 98f2b5dfdaa9
   - b15fbf90db53
+  - ca55048c3668
   tool_panel_section_label: SAM/BAM
 - name: tracy_align
   owner: iuc
@@ -13425,6 +13435,7 @@ tools:
   - e43f513583ee
   - fdbd97ff825e
   - ff0a8cda0c0b
+  - ffb42698e28f
   tool_panel_section_label: Variant Calling
 - name: freebayes
   owner: devteam
@@ -13589,6 +13600,7 @@ tools:
   - 30079fa4e2fd
   - 584c09b1967a
   - 7ca2fba4be83
+  - ab62d6d0d7b8
   - b1ca9fce4749
   - e3862632706d
   - fb00426402b0
