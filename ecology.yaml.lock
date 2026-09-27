@@ -717,6 +717,7 @@ tools:
   - 999e07f0a9fa
   - ab9977548806
   - b4ba9602a36e
+  - e6af850a1675
   - e6f4d3d9058c
   - e99cccc3ca13
   - eb41d87cb1de
@@ -735,6 +736,7 @@ tools:
   - 586e68c83df2
   - 69c44aab684e
   - 7626ea9c2e1b
+  - 9a01835cdead
   - a36a45cb96fa
   - c6ae57f774c6
   - d37a7f17e35d
@@ -771,6 +773,7 @@ tools:
   - 09bfbef3dd90
   - 0a6b69524de2
   - 226524df8c6c
+  - 23a37a52a899
   - 26ae8c074d95
   - 2a1afd3481ce
   - 3ff43fbb7ccf
@@ -788,6 +791,7 @@ tools:
 - name: sklearn_nn_classifier
   owner: bgruening
   revisions:
+  - 0c612f257a48
   - 187226dceb22
   - 2c58b83c9bad
   - 309cc7c6af56
@@ -834,6 +838,7 @@ tools:
   - 00f01f713c3c
   - 060ca94ac049
   - 0b98933cf0f7
+  - 0dd932943362
   - 1682df52c084
   - 2268fa04320d
   - 315f01a9d2c2
@@ -873,6 +878,7 @@ tools:
   revisions:
   - 045faa05e712
   - 0ff864fabfe9
+  - 191eac3065de
   - 1bef885255e0
   - 29e863d1491e
   - 484a98c44f00
@@ -901,6 +907,7 @@ tools:
   - 55703205546f
   - 6ffedbe712c0
   - 80ca74b1cb36
+  - 85f43dfa9ad3
   - 9bf11bbeccc3
   - a0061a087409
   - a7067bbf1e58
@@ -950,6 +957,7 @@ tools:
   - 893285b150f8
   - dea38330b78a
   - e76f6dfea5c9
+  - e81b336415c8
   - fc48ce12454b
   tool_panel_section_label: Machine Learning
 - name: sklearn_generalized_linear
@@ -961,6 +969,7 @@ tools:
   - 40f4447733b2
   - 57938c2f6ef5
   - 616a241c5b37
+  - 84dad16ed802
   - 913bf1c4c7bb
   - 927586a18553
   - a3495337ab56
@@ -998,6 +1007,7 @@ tools:
   owner: bgruening
   revisions:
   - 233aab4c1be8
+  - 25254e963e6e
   - 29200ecec39d
   - 318484f56b6a
   - 42b513bed40b
@@ -2040,6 +2050,7 @@ tools:
   - 3270cbefe9e6
   - 345dcb57726f
   - 3a6fe90f58f9
+  - 57a115fea97a
   - 5acff8859db2
   - 65b149d71d53
   - 6b0a7e4e1460
