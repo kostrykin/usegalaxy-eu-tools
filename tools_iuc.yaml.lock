@@ -2942,6 +2942,7 @@ tools:
 - name: seqkit_fx2tab
   owner: iuc
   revisions:
+  - 0d3b2a85231e
   - 13e101f5bb5d
   - 1dc73570fd5a
   - 23adecaeb039
@@ -2965,6 +2966,7 @@ tools:
   - 3c0120a0e35c
   - 6fb76225bdb1
   - 934165d1f733
+  - 943f34336731
   - dcd66e8008d7
   - f56a47e4cc93
   - fb7b676906e7
@@ -2973,6 +2975,7 @@ tools:
   owner: iuc
   revisions:
   - 0acbccd721b9
+  - 4cc0348746a6
   - 54e818ea7c4d
   - 571e6933e972
   - 5fb2dc40c4de
@@ -2995,6 +2998,7 @@ tools:
   - 1936d097808a
   - 23fa143a2e94
   - 6366952ddfd3
+  - b441f51f88b7
   - b7fe1967e668
   - c669e8550c46
   - d35d114c26a7
@@ -3025,6 +3029,7 @@ tools:
   - 14f7ceef5579
   - 29ef2c5ec205
   - 3dc878f71e4d
+  - 46281f14fcb0
   - 53b2027027c7
   - 61eb4cfc7313
   - 9ba18868a990
@@ -4882,6 +4887,7 @@ tools:
   - 69b5fa6480ff
   - 6fe0fdd63a67
   - 7da532cd050c
+  - 8638fee69580
   - 8fbd98f37c10
   - 95ab864b281a
   - 98099e4da1fd
@@ -5293,6 +5299,7 @@ tools:
   - a14326f1e7df
   - c7d03a7b52d6
   - d8334b328618
+  - fcb11c718c5e
   tool_panel_section_label: Metagenomic Analysis
 - name: ampvis2_mergereplicates
   owner: iuc
@@ -5340,6 +5347,7 @@ tools:
   - 811df76f4f26
   - 8569e8d8b712
   - 9742e8636a10
+  - ad46c4548d8f
   - be1918c80d9f
   - c465a1ea3da2
   - dc31a6f9fb2f
@@ -14575,6 +14583,7 @@ tools:
   - 004aea905d4d
   - 01fb6a7654e6
   - 1fcb7adc39b8
+  - 3d5024351691
   - 78f405266706
   - b4e53394fced
   - db9bba3f6180
@@ -14606,6 +14615,7 @@ tools:
   revisions:
   - 1ad8b24eca7c
   - 231994413f89
+  - 3208df1c919e
   - 56bce3c82278
   - 7fda5607e777
   - 9368fbc49c8b

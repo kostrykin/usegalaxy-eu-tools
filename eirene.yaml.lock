@@ -122,6 +122,7 @@ tools:
   - 0f1b15d51801
   - 200c5c982dba
   - 6cd2a9e6ac49
+  - 731e5d54b6e6
   - 90dc951da294
   - e5fcba090b10
   tool_panel_section_label: Metabolomics
@@ -202,6 +203,7 @@ tools:
   - c990df6afc24
   - d4609fbf8ca3
   - d95450eba471
+  - e3a46a3e8d54
   - fb09ed49c70e
   tool_panel_section_label: Metabolomics
 - name: matchms_add_key
@@ -216,6 +218,7 @@ tools:
   - 68fde0dc3d83
   - 69b568a0dab1
   - 7c5b86026e57
+  - 863a4e861982
   - 8fb8ac6c37b0
   - a14e7fe18387
   - a5d41764722d
@@ -251,6 +254,7 @@ tools:
   - 13de8005adba
   - 3370f5b08d19
   - 357df6c47d92
+  - 360836810cd5
   - 36a53917818d
   - 3f7790b73906
   - 6161895506ff
@@ -290,6 +294,7 @@ tools:
   - ad9d2d1b2b8d
   - c2d546691b7a
   - cbfd7c35e0a4
+  - ccf5e216b6ee
   - cdb41d95648c
   - d7b517f2c5fe
   - da9c5d40d1ba
@@ -327,6 +332,7 @@ tools:
   owner: recetox
   revisions:
   - 48c7b584032a
+  - 4f8a83c62c67
   - 51205379251d
   - 67b885502624
   - 73c902331bbc
@@ -353,6 +359,7 @@ tools:
   - 05a7fc94e66c
   - 1d443ed476a1
   - 330b0dfae8da
+  - 4105002c9a3b
   - 41cf8dd03e42
   - 43d40415654c
   - 44441b0ee4dd
@@ -427,6 +434,7 @@ tools:
   - 05b91d5045ce
   - 072c7a101da6
   - 0cf68b536cd1
+  - 0e61079af6d1
   - 114617e6ad33
   - 14a792c45c0b
   - 1dcd8b0bd608
@@ -474,6 +482,7 @@ tools:
   - 6e965d099233
   - 81e6df6ccd9a
   - 84ead993862c
+  - 8bf9df575761
   - 99ad7552fb10
   - ab784731b20e
   - c1c1cb295b74
@@ -628,6 +637,7 @@ tools:
   - 5d99cb9755da
   - 5dd25cf1ac0a
   - 9654573e6889
+  - df906aafac0d
   - e93401e2ad89
   tool_panel_section_label: Metabolomics
 - name: mfassignr_kmdnoise
@@ -644,6 +654,7 @@ tools:
   revisions:
   - 1c199c3d5993
   - b880fcae60ea
+  - d512c47f721d
   - e4ddc3bc7e15
   - e7ef7718505d
   - ef0388b42f7a
@@ -660,6 +671,7 @@ tools:
 - name: mfassignr_mfassigncho
   owner: recetox
   revisions:
+  - 4d10bce8c07e
   - 59326d3b9c52
   - b92c9388240a
   - b96a462d9c3f
@@ -672,6 +684,7 @@ tools:
   - 13ef8b748af9
   - 3ea8ed561c5a
   - 861917f1a211
+  - 91af26deeb98
   - a3113a7c1767
   - cfcf45ba58be
   tool_panel_section_label: Metabolomics
@@ -690,6 +703,7 @@ tools:
   - 18e13043167d
   - 1b4881c150cc
   - ad4176b336dc
+  - eea4113efc99
   tool_panel_section_label: Metabolomics
 - name: rcx_tk
   owner: recetox
@@ -723,6 +737,7 @@ tools:
   owner: recetox
   revisions:
   - 0a0529822d91
+  - 7c7422ce0cc7
   tool_panel_section_label: Metabolomics
 - name: bioconductor_scp
   owner: recetox
@@ -736,11 +751,13 @@ tools:
   revisions:
   - 00e058234fbf
   - 430dd5da800c
+  - 8e6a8e183398
   tool_panel_section_label: Metabolomics
 - name: bioconductor_msnbase_smooth_chromatogram
   owner: recetox
   revisions:
   - 09162867c419
+  - 216309c67d4a
   - 492350f45be9
   tool_panel_section_label: Metabolomics
 - name: bioconductor_msnbase_centroid
@@ -748,4 +765,5 @@ tools:
   revisions:
   - 4018639dc0a5
   - 4787c71cdb6e
+  - ba8b0743be69
   tool_panel_section_label: Metabolomics
