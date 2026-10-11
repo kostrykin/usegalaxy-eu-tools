@@ -126,6 +126,7 @@ tools:
   owner: bgruening
   revisions:
   - 1ac12c0cc7a0
+  - 4594ca417b13
   - 7ccc6234b54e
   - 8e9e228c54c4
   tool_panel_section_label: Annotation
@@ -669,6 +670,7 @@ tools:
   - 00f01f713c3c
   - 060ca94ac049
   - 0b98933cf0f7
+  - 0dd932943362
   - 1682df52c084
   - 172365bc2b5f
   - 1a53edc4b438
@@ -749,6 +751,7 @@ tools:
   - ae0fafb53c1d
   - c2cd3219543a
   - d84b3a229a52
+  - dd786bc16fdb
   - e918f33f7d4f
   - ec25331946b8
   - fcadeadd51ae
@@ -817,6 +820,7 @@ tools:
   - 026ff1ea9f94
   - 1e006ebbcaf5
   - 2be90d2f29a7
+  - 549937c7349c
   - 5e1581dfb419
   - 6c1c7a89d333
   - 9b067af194b7
@@ -861,6 +865,7 @@ tools:
   - 9084156b2bb5
   - a293d7937700
   - adb084b901cc
+  - cde5fc214cc8
   - f0ede473a7e8
   - fb17e19b62a4
   - fc2e64a27e90
@@ -1003,6 +1008,7 @@ tools:
   - 3af626081467
   - 435592ba3087
   - 4a1addf7cc1e
+  - 8a82f0a52e73
   - 945a53c248de
   - c17f3eacdb14
   - c716b8c86c5d
@@ -1152,6 +1158,7 @@ tools:
   - d2afc87db26b
   - da0a22cdcce7
   - de94341feadb
+  - df690bb42687
   - e1b37bdc5fbd
   - e92c8a69b0e0
   - f458724cc317
@@ -1218,6 +1225,7 @@ tools:
   - 382b63d4744b
   - 5a092779412e
   - 6e25381dad5c
+  - 6f7e3901728d
   - 7e0efd4eb72f
   - 910ebff96ddc
   - a2e3cf2f9f40

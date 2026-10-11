@@ -129,6 +129,7 @@ tools:
 - name: msmetaenhancer
   owner: recetox
   revisions:
+  - '275998667516'
   - 2ada1099f42e
   - 3b402610c6dc
   - 3e2cb0bc6959
@@ -243,6 +244,7 @@ tools:
   - dd1b4515c5cd
   - ea891750acfc
   - ef233c08112e
+  - f67250103433
   - fbdb2ae524df
   tool_panel_section_label: Metabolomics
 - name: matchms_filtering
@@ -274,6 +276,7 @@ tools:
   owner: recetox
   revisions:
   - 27e068d0d89a
+  - 30e0b43373b8
   - 6fa0150f6172
   - c24ebd41dd53
   - c7be8e58a6af
@@ -310,6 +313,7 @@ tools:
   - 1b09315a3f87
   - 1e58bf51a0e5
   - 23d4bc72c505
+  - 2d17d540ec2b
   - 34439ffa6a60
   - 402620029a7a
   - 48ade5cc847f
@@ -397,6 +401,7 @@ tools:
   - c42b977ec884
   - d8e937f335b8
   - f04b378325e5
+  - fd24cf34a92d
   - fe2d9e061bbf
   tool_panel_section_label: Metabolomics
 - name: matchms_similarity
@@ -420,6 +425,7 @@ tools:
   - 7ba589b01dbc
   - 931cce430163
   - 9782eb7a22b7
+  - 9bca236ba1a9
   - 9ff95a1a2705
   - b2c7b7705734
   - beae81d5a475
@@ -465,6 +471,7 @@ tools:
   - 9231f7bee46d
   - a598091029ad
   - aa2e912f9dc2
+  - b52e65169696
   - c4835715c7ac
   - cab0e4dcf372
   - d11b27e59dfa
@@ -597,6 +604,7 @@ tools:
   owner: recetox
   revisions:
   - 600b391827e3
+  - c35703b1ab89
   tool_panel_section_label: Metabolomics
 - name: xcms_plot_raw
   owner: workflow4metabolomics
@@ -627,6 +635,7 @@ tools:
   - 434fa3233e96
   - 7279d7a37c43
   - 7579b0cda787
+  - 8e5acbf5589b
   - ccd9b0c1aee6
   - f19c0631b9e5
   tool_panel_section_label: Metabolomics
@@ -644,6 +653,7 @@ tools:
   owner: recetox
   revisions:
   - 39a642fc9638
+  - 61287368a95d
   - 634ae07958a2
   - 99d021734000
   - a7a823839ae3
@@ -667,6 +677,7 @@ tools:
   - 9cbbfd54d7c4
   - d2bad53dd220
   - d5745e78fcfe
+  - d79690df2e83
   tool_panel_section_label: Metabolomics
 - name: mfassignr_mfassigncho
   owner: recetox
@@ -695,6 +706,7 @@ tools:
   - 4f671baab2fd
   - 6c7b17d38a1d
   - 7e5ccc8b6f6e
+  - d3dfaa7496a2
   - ddb9d330ecc0
   tool_panel_section_label: Metabolomics
 - name: mfassignr_findrecalseries

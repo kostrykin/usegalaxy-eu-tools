@@ -981,6 +981,7 @@ tools:
   - 2b21643ce8d7
   - 36093854bfc7
   - 8bc80c2a15b3
+  - d221bf907235
   - edcf603bedfd
   tool_panel_section_label: Annotation
 - name: transtermhp
@@ -1845,6 +1846,7 @@ tools:
   - b28e0cfa7ba1
   - b8348686a0b9
   - ce3c7f062223
+  - d57471728f7b
   - dde39ba9c031
   - e19bebe96cd2
   - fe5b4cb8356c
@@ -2096,6 +2098,7 @@ tools:
 - name: tooldistillator
   owner: iuc
   revisions:
+  - 4ac5179f245c
   - 65a69de1e294
   - 66617be450bd
   - 6c56786c9d1a
@@ -2117,6 +2120,7 @@ tools:
   - 07d093aaf3b4
   - 24eec94e6dfc
   - 30a8447539e4
+  - 3a66889baf43
   - 3d0223265277
   - 6ff67d2860e1
   - 95a71120949f
@@ -3007,6 +3011,7 @@ tools:
 - name: seqkit_stats
   owner: iuc
   revisions:
+  - 0a2a529e24e3
   - 191738d53912
   - 24107542edff
   - 3d6d1121a427
@@ -4886,6 +4891,7 @@ tools:
   - 2595c27071c2
   - 69b5fa6480ff
   - 6fe0fdd63a67
+  - 7c5b53cd2997
   - 7da532cd050c
   - 8638fee69580
   - 8fbd98f37c10
@@ -10581,6 +10587,7 @@ tools:
   - 4418229c501e
   - 8f6836089479
   - 916cb26bd9d3
+  - c5a9d57d7eb1
   - fb117b3ee99a
   tool_panel_section_label: RNA Analysis
 - name: idr
@@ -11116,6 +11123,7 @@ tools:
   owner: devteam
   revisions:
   - 04866f817daa
+  - 49be7ffc00e2
   - 4d343c1f606b
   - 887a9bf73d1a
   - 8eb649e67987
@@ -14503,6 +14511,7 @@ tools:
   - 12af64f93288
   - 2d2cf5c1ea8a
   - 4df95152a39e
+  - 7dcc58a57476
   - bb1e4f63e0e6
   - d13c066a4751
   tool_panel_section_label: deepTools
@@ -14526,6 +14535,7 @@ tools:
   - 3d211717a775
   - 7989c6ddf634
   - a67ac707496a
+  - dc53544cb243
   tool_panel_section_label: deepTools
 - name: deeptools_compute_gc_bias
   owner: bgruening
@@ -14550,6 +14560,7 @@ tools:
 - name: deeptools_compute_matrix_operations
   owner: bgruening
   revisions:
+  - 3decd0bfc388
   - 7e6bcd2e5128
   - 7ef978dc1b8a
   - be95d48dd27f
@@ -14647,6 +14658,7 @@ tools:
   - 037a701703b2
   - 25d830337d31
   - 42cb23d80271
+  - 7fdfac4711b2
   - a4dfb122e52b
   - ba6efa77fb79
   - e4c7985d4585
@@ -14677,6 +14689,7 @@ tools:
   owner: bgruening
   revisions:
   - 35b2d3ebd6d7
+  - 3c478e39df6a
   - 4a53856a5b85
   - f6f246438eda
   tool_panel_section_label: deepTools
