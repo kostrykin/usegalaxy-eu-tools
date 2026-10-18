@@ -648,6 +648,7 @@ tools:
   - 6b9816a913de
   - 6fc8bab811da
   - b0d96516e6a5
+  - bf96015d2492
   - fb50ab943396
   tool_panel_section_label: Graph/Display Data
 - name: tsne
@@ -693,6 +694,7 @@ tools:
   - 6d23883e0b94
   - 70f61a4de941
   - 80852884053f
+  - 8797bedbba8e
   - a5665e1b06b0
   - b7c3e9a3b954
   - d2afc87db26b
@@ -737,6 +739,7 @@ tools:
   - 586e68c83df2
   - 69c44aab684e
   - 7626ea9c2e1b
+  - 8eb081549c98
   - 9a01835cdead
   - a36a45cb96fa
   - c6ae57f774c6
@@ -766,6 +769,7 @@ tools:
   - aef56d0e7a61
   - b1eda492f063
   - bc0117538945
+  - bf5b6f5a18ed
   - dc66f89ba2a2
   tool_panel_section_label: Machine Learning
 - name: sklearn_pairwise_metrics
@@ -801,6 +805,7 @@ tools:
   - 39ae3c043096
   - 4cc980df6265
   - 4db563e8d453
+  - 531513ce17a5
   - 672327583f74
   - 7ae443e6217d
   - 7f21c9e5656d
@@ -845,6 +850,7 @@ tools:
   - 1682df52c084
   - 2268fa04320d
   - 315f01a9d2c2
+  - 398c7e90ded2
   - 3ab7af14f1b5
   - 407495139a09
   - 4ecc0ce9d0a2
@@ -890,6 +896,7 @@ tools:
   - 761269451e98
   - 80074b842ebd
   - 826c3e68e7a9
+  - 9452bddf21bd
   - 9e43ee712723
   - a432f7a41307
   - a5c2ce4ea328
@@ -941,6 +948,7 @@ tools:
   - b4ebe47701e4
   - c78a5fc9e758
   - dc17e2878dc1
+  - f55053c4a5ec
   - f5dcb87fd14e
   tool_panel_section_label: Machine Learning
 - name: sklearn_discriminant_classifier
@@ -986,6 +994,7 @@ tools:
   - d4808d5b83da
   - dc4b5fd604a6
   - ddd7fc59ba59
+  - fd703ccdab66
   tool_panel_section_label: Machine Learning
 - name: sklearn_model_validation
   owner: bgruening
@@ -993,6 +1002,7 @@ tools:
   - 0474777be433
   - 30f892a9b46d
   - 4b359039f09f
+  - 5a26080a4f96
   - 5d5d9cc554f9
   - 61e76fb65daf
   - 65f18ab91132

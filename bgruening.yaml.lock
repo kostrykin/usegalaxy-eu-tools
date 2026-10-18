@@ -22,6 +22,7 @@ tools:
   owner: bgruening
   revisions:
   - 04bfb8ee7e23
+  - 0648279794e5
   - 0ecf92b5a7c5
   - 3ae9331790a6
   - 4e9a3745dce4
@@ -52,12 +53,14 @@ tools:
   - 8dbc700cb940
   - a0f01c777820
   - ab55af10f1ff
+  - db7c0226ebd9
   tool_panel_section_label: Convert Formats
 - name: graphicsmagick_image_compare
   owner: bgruening
   revisions:
   - 19cd03398db8
   - 2a5a0b61a84e
+  - 43ac3b5adbc7
   - 76acb1175c57
   - 8fa7b6892af5
   - bb871fbe177f
@@ -388,6 +391,7 @@ tools:
   - 33d8be959bf3
   - 3814a92c1416
   - 3b8fa4ea9727
+  - 3fbbea66522d
   - 4a5266c96889
   - 508ce0649bec
   - 61b2d8f8811e
@@ -457,6 +461,7 @@ tools:
   - de19ef9ff031
   - e474e701d58b
   - f22a9297440f
+  - fb731872d453
   tool_panel_section_label: Machine Learning
 - name: keras_train_and_eval
   owner: bgruening
@@ -493,6 +498,7 @@ tools:
   - 21730620a849
   - 222c02df5d55
   - 4a229a7ad638
+  - 553b147da4e9
   - 5f9c0e99016f
   - 6b94d76a1397
   - 6fabdcde0214
@@ -565,6 +571,7 @@ tools:
   - aef56d0e7a61
   - b1eda492f063
   - bc0117538945
+  - bf5b6f5a18ed
   - c33145a815ee
   tool_panel_section_label: Machine Learning
 - name: sklearn_clf_metrics
@@ -618,6 +625,7 @@ tools:
   - 761269451e98
   - 80074b842ebd
   - 826c3e68e7a9
+  - 9452bddf21bd
   - 9ac0b78c6b6d
   - 9e43ee712723
   - a432f7a41307
@@ -657,6 +665,7 @@ tools:
   - 8e49f26b14d3
   - 95d0f81e46e8
   - 9bb505eafac9
+  - b0b9245d414e
   - d3e99d3df1ca
   - dea38330b78a
   - e76f6dfea5c9
@@ -714,6 +723,7 @@ tools:
   - 867caa39eaa4
   - 89deaf399ff7
   - 9fda0b82f419
+  - aa243478bb94
   - ad297a5397a0
   - adaf2457d6ec
   - bd27a211182a
@@ -768,6 +778,7 @@ tools:
   - 4f243b0169db
   - 61fb99c55558
   - 69f627250dea
+  - 6ff5b1978b0c
   - 9a3cb21a3661
   - a9d72bfe33c9
   - bfc44324a773
@@ -825,6 +836,7 @@ tools:
   - 6c1c7a89d333
   - 9b067af194b7
   - ac52a5916963
+  - d6fccdb87bf3
   - e8d6b4acb7c6
   tool_panel_section_label: Machine Learning
 - name: sklearn_lightgbm
@@ -864,6 +876,7 @@ tools:
   - 8f469d961e30
   - 9084156b2bb5
   - a293d7937700
+  - aaf492da76d4
   - adb084b901cc
   - cde5fc214cc8
   - f0ede473a7e8
@@ -916,6 +929,7 @@ tools:
   - 39ae3c043096
   - 4cc980df6265
   - 4db563e8d453
+  - 531513ce17a5
   - 55c7d3e58eae
   - 672327583f74
   - 699024d5c451
@@ -979,6 +993,7 @@ tools:
   - 23a37a52a899
   - 26ae8c074d95
   - 2a1afd3481ce
+  - 383d5372a90d
   - 3ff43fbb7ccf
   - 5bd0866dbc7a
   - 62945303e6bd
@@ -1048,6 +1063,7 @@ tools:
   - c78a5fc9e758
   - dc17e2878dc1
   - f04a2405f3fe
+  - f55053c4a5ec
   - f5dcb87fd14e
   tool_panel_section_label: Machine Learning
 - name: sklearn_sample_generator
@@ -1073,6 +1089,7 @@ tools:
   - ab2c393080f9
   - ab9977548806
   - b4ba9602a36e
+  - cb2cfcaf6ba8
   - db7eb7302fc9
   - df579b31311d
   - e6af850a1675
@@ -1123,6 +1140,7 @@ tools:
   - 3dc6734056e6
   - 59f53bbe6ba9
   - 6717e5cc4d05
+  - 848d5a2bdf61
   - 9ec25da5ece0
   - a2e4a45c6083
   - ae4b593c99f8
@@ -1174,6 +1192,7 @@ tools:
   - 612ca26c197d
   - 61634a87efc7
   - 6b59e9b96071
+  - 722379be2338
   - 791fa244e44d
   - 89f11e2b0673
   - a38de68880df
@@ -1195,6 +1214,7 @@ tools:
   - 443471b0a27a
   - 4d1637cac794
   - 68aaa903052a
+  - 724f4328af54
   - 77125cbb54ac
   - 8b822484debc
   - a0b0f3158c8c
@@ -1233,6 +1253,7 @@ tools:
   - b6f5443c4f58
   - ce2fd1edbc6e
   - e10ffa9e0b90
+  - e3d00d324fb7
   - e8639f65c883
   - e8e5736b632d
   - fc0f9ba14aaa
@@ -1503,6 +1524,7 @@ tools:
   - 923fba89da05
   - 92e09b827300
   - 9f9cf31e3111
+  - a1478b43a349
   - a2da4cebc584
   - a84e6ffd3735
   - b3d80cb1ed87
