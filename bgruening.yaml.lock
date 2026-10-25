@@ -70,6 +70,7 @@ tools:
 - name: hictk
   owner: bgruening
   revisions:
+  - 0763356a72da
   - 2da980d606cb
   - 6ea4b941a15b
   - a2e75bad2872
@@ -119,6 +120,7 @@ tools:
   revisions:
   - 6d8444408ff1
   - 6d8be3337e2a
+  - 80b0055ba314
   - a6318f87f2cd
   - abba05ead5d7
   - d6ede73082da
@@ -290,6 +292,7 @@ tools:
 - name: trim_galore
   owner: bgruening
   revisions:
+  - 433db23e1c1d
   - b94789823aad
   - cd7e644cae1d
   - eefb644655a5
@@ -426,6 +429,7 @@ tools:
   - 8611b3f52a38
   - 98aeca624881
   - 9b6faa256f15
+  - ad11e219bd5a
   - beeeda757eba
   - c51571d0a0b1
   - e3b420d0b71a
@@ -484,6 +488,7 @@ tools:
   - e1317b5502fa
   - e29894cdea47
   - ead8f1822587
+  - efa16475990a
   - f1b9a42d6809
   tool_panel_section_label: Machine Learning
 - name: ml_visualization_ex
@@ -529,6 +534,7 @@ tools:
   - 65820fb7257b
   - 6efb9bc6bf32
   - 83228baae3c5
+  - 8ef3ef591dc8
   - 919198d656dd
   - 948eca2af157
   - 980bf31faa05
@@ -600,6 +606,7 @@ tools:
   - ae69f6918abe
   - c8547d3993c0
   - c89a3bfb3b1d
+  - d0f0767072b2
   - daaa56720686
   - e54382561bd4
   - e56721f44020
@@ -686,6 +693,7 @@ tools:
   - 2268fa04320d
   - 315f01a9d2c2
   - 360330a867f0
+  - 398c7e90ded2
   - 39ae276e75d9
   - 3ab7af14f1b5
   - 407495139a09
@@ -757,6 +765,7 @@ tools:
   - 8a307b946c58
   - 96bb4c49e30e
   - 9e0e31bd8392
+  - a79e439ac817
   - a7c667ff83fe
   - ae0fafb53c1d
   - c2cd3219543a
@@ -824,6 +833,7 @@ tools:
   - ddd7fc59ba59
   - e3bc646e63b2
   - f12dc92b6699
+  - fd703ccdab66
   tool_panel_section_label: Machine Learning
 - name: sklearn_label_encoder
   owner: bgruening
@@ -844,6 +854,7 @@ tools:
   revisions:
   - 029d8b61da32
   - 16c442ecd6bf
+  - 19e086c622db
   - 1b7ab45c7858
   - 27f8bd20a936
   - 3045d322d4ac
@@ -894,6 +905,7 @@ tools:
   - 4b359039f09f
   - 56f6ebf69ddc
   - 5895fe0b8bde
+  - 5a26080a4f96
   - 5d5d9cc554f9
   - 60b8a683ba99
   - 61e76fb65daf
@@ -967,6 +979,7 @@ tools:
   - 838ca001438d
   - 83938131dd46
   - 86d4c2b66e16
+  - 88bd281cdf65
   - 8eed73e8e04d
   - 981a0328d6bb
   - 9d234733ccfd
@@ -1018,6 +1031,7 @@ tools:
   owner: bgruening
   revisions:
   - 03e0da430d44
+  - 1728b4a3895e
   - 24c1cc2dd4a4
   - 2d7016b3ae92
   - 3af626081467
@@ -1119,6 +1133,7 @@ tools:
   - 69c44aab684e
   - 7626ea9c2e1b
   - 82b6104d4682
+  - 8eb081549c98
   - 907bb0418c9f
   - 9a01835cdead
   - a36a45cb96fa
@@ -1170,6 +1185,7 @@ tools:
   - 73d2ef652879
   - 7d7379dfef8b
   - 80852884053f
+  - 8797bedbba8e
   - 9295c5f34630
   - a5665e1b06b0
   - b7c3e9a3b954
@@ -1431,6 +1447,7 @@ tools:
 - name: fastq_info
   owner: bgruening
   revisions:
+  - 2bca15e630a4
   - 7a821cd57b43
   tool_panel_section_label: Quality Control
 - name: 10x_bamtofastq
@@ -1547,6 +1564,7 @@ tools:
   - 02dfbbf869d8
   - 10ef1bf99074
   - 156d0908e232
+  - 2dfd91f7b71d
   - 95a9dc82fc9a
   - be2d899bf34a
   tool_panel_section_label: Text Manipulation

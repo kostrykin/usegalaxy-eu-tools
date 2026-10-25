@@ -266,6 +266,7 @@ tools:
   - 9bc5cdefb090
   - 9cd341095afd
   - aff5135563c6
+  - b6236eb1a50b
   tool_panel_section_label: Text Manipulation
 - name: prinseq
   owner: iuc
@@ -620,6 +621,7 @@ tools:
   - 53460afd5115
   - '566197475670'
   - 6a097d09fca3
+  - 94f3fd9ade04
   - ca7cb0eaad62
   tool_panel_section_label: Graph/Display Data
 - name: ggplot2_point
@@ -720,6 +722,7 @@ tools:
   - 999e07f0a9fa
   - ab9977548806
   - b4ba9602a36e
+  - cb2cfcaf6ba8
   - e6af850a1675
   - e6f4d3d9058c
   - e99cccc3ca13
@@ -782,6 +785,7 @@ tools:
   - 23a37a52a899
   - 26ae8c074d95
   - 2a1afd3481ce
+  - 383d5372a90d
   - 3ff43fbb7ccf
   - 5bd0866dbc7a
   - 7366e5108e9f
@@ -828,6 +832,7 @@ tools:
   - 7dd3fb35904f
   - 838ca001438d
   - 86d4c2b66e16
+  - 88bd281cdf65
   - 8eed73e8e04d
   - 981a0328d6bb
   - abb5a3f256e3
@@ -875,6 +880,7 @@ tools:
   - 74adae8d7b0f
   - 96bb4c49e30e
   - 9e0e31bd8392
+  - a79e439ac817
   - a7c667ff83fe
   - ae0fafb53c1d
   - d84b3a229a52
@@ -924,6 +930,7 @@ tools:
   - a7067bbf1e58
   - adc6137e7c73
   - c8547d3993c0
+  - d0f0767072b2
   - daaa56720686
   - e56721f44020
   - e9821a426d75
@@ -968,6 +975,7 @@ tools:
   - 78a60f884ac9
   - 87cb9cb44d1f
   - 893285b150f8
+  - b0b9245d414e
   - dea38330b78a
   - e76f6dfea5c9
   - e81b336415c8
@@ -1033,6 +1041,7 @@ tools:
   - 923fba89da05
   - 92e09b827300
   - 9f9cf31e3111
+  - a1478b43a349
   - a84e6ffd3735
   - b3d80cb1ed87
   - b7e93c1deb3f
@@ -1082,6 +1091,7 @@ tools:
   - 5e33b465d8d5
   - 75c93c70d094
   - 862943c10425
+  - 94b6bea727ae
   - 97255f6fdf7e
   - 9a913cdee30e
   - a7e081ceb76a

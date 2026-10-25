@@ -108,6 +108,7 @@ tools:
   - 2b6bfa234d8b
   - 2d13fcae8b84
   - 2dd734da8a4c
+  - 35467fe49dad
   - 79ad928a0dae
   - 7b42ee54d757
   - c53a97599181
@@ -151,6 +152,7 @@ tools:
 - name: riassigner
   owner: recetox
   revisions:
+  - 3af9c2de8522
   - 4abc4359b978
   - 4e47a0fa9287
   - 79818ce5a8bf
@@ -181,6 +183,7 @@ tools:
   - 7bbdcce50541
   - 7c50666b88e8
   - 87ac0b56b9b0
+  - b0a739025b81
   - ef3cbcdf5f5d
   - f2c1d0bbb074
   tool_panel_section_label: Metabolomics
@@ -535,6 +538,7 @@ tools:
   - 6e1ef071fffc
   - cba7123c2741
   - d5633eaf3552
+  - d5ee22b95891
   tool_panel_section_label: ChemicalToolBox
 - name: rem_complex
   owner: recetox
@@ -556,6 +560,7 @@ tools:
   revisions:
   - 0d9d72ef658f
   - 33b7a99b6de3
+  - 3862d7fc6f7e
   - 475bbef634d4
   - 6c118de4b735
   - 8f465c0c3b6c
@@ -580,6 +585,7 @@ tools:
   - 720958b09af4
   - 89b026d67e9f
   - af8839475b43
+  - d488b9391103
   - ef51824f6d04
   tool_panel_section_label: ChemicalToolBox
 - name: use_theoretical_mz_annotations
@@ -595,6 +601,7 @@ tools:
   owner: recetox
   revisions:
   - 268fcec93d9c
+  - 3704e4bf393c
   tool_panel_section_label: Metabolomics
 - name: assign_ri_from_comment
   owner: recetox
@@ -609,6 +616,7 @@ tools:
   owner: recetox
   revisions:
   - 06f2d0d6d107
+  - 0cf5061ad158
   - 2b1118bce0b1
   - 6b0fef8a77c0
   - 964b4559eb1b
