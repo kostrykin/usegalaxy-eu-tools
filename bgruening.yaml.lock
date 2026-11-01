@@ -16,6 +16,7 @@ tools:
   owner: bgruening
   revisions:
   - 3d71ab1562d7
+  - 7a299251aeb7
   - 891b330ffd94
   tool_panel_section_label: Convert Formats
 - name: graphicsmagick_image_convert
@@ -313,6 +314,7 @@ tools:
   - 137e08517410
   - 21bb464c1d53
   - 2fff478aca4b
+  - 329cd8314959
   - 4aec47f872b3
   - 56f9a6e0fe80
   - 69c6ea16c148
@@ -1293,6 +1295,7 @@ tools:
 - name: flexynesis
   owner: bgruening
   revisions:
+  - 09749ea1dabd
   - 0bef7ea84b7f
   - 2134c3079055
   - 6eb6d8e78d06
