@@ -1538,6 +1538,7 @@ tools:
   - 1ba1185929c1
   - 4ee074ca88fb
   - 7c42e6768c41
+  - 8b6f471264f0
   - d7a482f44e08
   tool_panel_section_label: RAD-seq
 - name: stacks_clonefilter
@@ -2110,6 +2111,7 @@ tools:
   - 6b0a7e4e1460
   - 71bc3407e4b5
   - 78768c06b60f
+  - 79e07c279c8a
   - 8cf2cf91785f
   - a695409e907f
   - a79a266b93e8
